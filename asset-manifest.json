@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Aaryansh12/Prototye-Portfolio-Website/static/css/main.8269f49b.css",
+    "main.js": "/Aaryansh12/Prototye-Portfolio-Website/static/js/main.d93bf2c5.js",
+    "static/js/787.67b99310.chunk.js": "/Aaryansh12/Prototye-Portfolio-Website/static/js/787.67b99310.chunk.js",
+    "static/media/helvetica-neu.ttf": "/Aaryansh12/Prototye-Portfolio-Website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/Aaryansh12/Prototye-Portfolio-Website/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/Aaryansh12/Prototye-Portfolio-Website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/Aaryansh12/Prototye-Portfolio-Website/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff": "/Aaryansh12/Prototye-Portfolio-Website/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/Aaryansh12/Prototye-Portfolio-Website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Aaryansh12/Prototye-Portfolio-Website/index.html",
+    "main.8269f49b.css.map": "/Aaryansh12/Prototye-Portfolio-Website/static/css/main.8269f49b.css.map",
+    "main.d93bf2c5.js.map": "/Aaryansh12/Prototye-Portfolio-Website/static/js/main.d93bf2c5.js.map",
+    "787.67b99310.chunk.js.map": "/Aaryansh12/Prototye-Portfolio-Website/static/js/787.67b99310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8269f49b.css",
+    "static/js/main.d93bf2c5.js"
+  ]
+}
